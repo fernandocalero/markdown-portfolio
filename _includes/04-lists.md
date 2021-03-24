@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Exercise
+* Go jogging 🏃
+* Shower 🚿
+* Breakfast
+  * Buy groceries
+  * Cook breakfast 🍍 + 🥚
+* Start working
